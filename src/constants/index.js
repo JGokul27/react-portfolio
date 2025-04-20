@@ -10,7 +10,7 @@ export const ABOUT_TEXT = `I'm Gokul J, a passionate Full Stack Developer specia
 export const EXPERIENCES = [
   {
     year: "February 2024 - April 2024",
-    role: "Full Stack Developer",
+    role: "Full Stac Developer",
     company: "Edunet Foundation (Project)",
     description: `Gained comprehensive experience in both frontend design and backend implementation, including building user-friendly interfaces and managing server-side applications. - Acquired practical skills in database management, version control, and API integration, overseeing projects from concept to deployment.`,
     technologies: ["Javascript", "React.js", "Node.js", "Express.js", "mongoDB"],
