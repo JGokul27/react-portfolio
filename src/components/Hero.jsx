@@ -52,7 +52,7 @@ const Hero = () => {
               transition={{ duration: 1, delay: 1.2 }}
               src={profilePic}
               alt="Rush"
-              className="w-96 rounded-[100px]"
+              className="w-[500px] rounded-[250px]"
               width="300px"
             />
           </div>
