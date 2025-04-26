@@ -3,14 +3,14 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/portfolio.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a Full Stack Developer passionate about creating user-friendly interfaces and robust server-side applications. With hands-on experience in React, Node.js, Express.js and MongoDB, I aim to build scalable web solutions. I thrive on problem-solving and collaboration, ready to tackle real-world challenges in web development.`;
+export const HERO_CONTENT = `I am a Full stack Developer passionate about creating user-friendly interfaces and robust server-side applications. With hands-on experience in React, Node.js, Express.js and MongoDB, I aim to build scalable web solutions. I thrive on problem-solving and collaboration, ready to tackle real-world challenges in web development.`;
 
 export const ABOUT_TEXT = `I'm Gokul J, a passionate Full Stack Developer specializing in the MERN stack, with a keen interest in building scalable, user-friendly, and interactive web applications. Currently in the final year of my B.E in Computer Science Engineering at Vaigai College of Engineering, I have worked on projects with leveraging technologies like " MERN Stack, Tailwind CSS, and Framer Motion ". Actively seeking internship and job opportunities, I aim to develop impactful solutions that enhance user experience and solve real-world challenges.`;
 
 export const EXPERIENCES = [
   {
     year: "February 2024 - April 2024",
-    role: "Full Stack Developer",
+    role: "Full Stac Developer",
     company: "Edunet Foundation (Project)",
     description: `Gained comprehensive experience in both frontend design and backend implementation, including building user-friendly interfaces and managing server-side applications. - Acquired practical skills in database management, version control, and API integration, overseeing projects from concept to deployment.`,
     technologies: ["Javascript", "React.js", "Node.js", "Express.js", "mongoDB"],
