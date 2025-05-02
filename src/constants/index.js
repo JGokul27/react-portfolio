@@ -5,7 +5,8 @@ import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `I am a Full stack Developer passionate about creating user-friendly interfaces and robust server-side applications. With hands-on experience in React, Node.js, Express.js and MongoDB, I aim to build scalable web solutions. I thrive on problem-solving and collaboration, ready to tackle real-world challenges in web development.`;
 
-export const ABOUT_TEXT = `I'm Gokul J, a passionate Full Stack Developer specializing in the MERN stack, with a keen interest in building scalable, user-friendly, and interactive web applications. Currently in the final year of my B.E in Computer Science Engineering at Vaigai College of Engineering, I have worked on projects with leveraging technologies like " MERN Stack, Tailwind CSS, and Framer Motion ". Actively seeking internship and job opportunities, I aim to develop impactful solutions that enhance user experience and solve real-world challenges.`;
+export const ABOUT_TEXT = `I’m a Software Developer with experience in building full stack web applications. I use HTML, CSS, JavaScript, React.js, Tailwind CSS, Node.js, Express.js, SQL, and MongoDB. I also know the basics of Java. I’m familiar with tools like Postman, Git, GitHub, VS Code, and Figma. I focus on writing clean code, solving problems, and building user-friendly websites. I work well in teams and keep learning new things.
+`;
 
 export const EXPERIENCES = [
   {
