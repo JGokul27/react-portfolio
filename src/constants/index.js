@@ -56,7 +56,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Aruppukottai, Virudhunagar (dt), Tamilnadu, India",
+  address: "Chennai, Tamilnadu, India",
   phoneNo: "+91 9342104213 ",
   email: "gokuljcse2021@gmail.com",
 };
